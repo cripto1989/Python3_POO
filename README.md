@@ -8,9 +8,10 @@ Proyecto en el cual se estaran subiendo ejercicios sobre Programacion Orientada 
 * Clases
 * Instancias y Objeto
 * Metodos de instancia
+* Metodos de clase
 * Herencia
 
 
-**Ejecucion** 
+**Ejecucion**
 
-Hasta el momento todos los archivos por cada carpeta son llamados Principal.py, para la ejecucion de cada script solo es necesario posicionarse a nivel del archivo y ejectar **python Principal.py** 
+Hasta el momento todos los archivos por cada carpeta son llamados Principal.py, para la ejecucion de cada script solo es necesario posicionarse a nivel del archivo y ejectar **python Principal.py**
